@@ -5,13 +5,13 @@ namespace SimiosGame.Models
     public class Personagem
     {
         public string Nome { get;set;}
-        public int Vida { get;set;}
+        public int Vida { get; private set;}
         public int Forca {get;set;}
     
         public Personagem (string nome, int vida, int forca) {
-            this.Nome = nome;
-            this.Vida = vida;
-            this.Forca = forca;
+            Nome = nome;
+            Vida = vida;
+            Forca = forca;
         }
 
 
