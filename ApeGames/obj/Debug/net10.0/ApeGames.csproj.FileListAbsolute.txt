@@ -1,0 +1,15 @@
+D:\Workspace - Yan\4 - VSCODE\C#\ApeGames\ApeGames\bin\Debug\net10.0\ApeGames.exe
+D:\Workspace - Yan\4 - VSCODE\C#\ApeGames\ApeGames\bin\Debug\net10.0\ApeGames.deps.json
+D:\Workspace - Yan\4 - VSCODE\C#\ApeGames\ApeGames\bin\Debug\net10.0\ApeGames.runtimeconfig.json
+D:\Workspace - Yan\4 - VSCODE\C#\ApeGames\ApeGames\bin\Debug\net10.0\ApeGames.dll
+D:\Workspace - Yan\4 - VSCODE\C#\ApeGames\ApeGames\bin\Debug\net10.0\ApeGames.pdb
+D:\Workspace - Yan\4 - VSCODE\C#\ApeGames\ApeGames\obj\Debug\net10.0\ApeGames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace - Yan\4 - VSCODE\C#\ApeGames\ApeGames\obj\Debug\net10.0\ApeGames.AssemblyInfoInputs.cache
+D:\Workspace - Yan\4 - VSCODE\C#\ApeGames\ApeGames\obj\Debug\net10.0\ApeGames.AssemblyInfo.cs
+D:\Workspace - Yan\4 - VSCODE\C#\ApeGames\ApeGames\obj\Debug\net10.0\ApeGames.csproj.CoreCompileInputs.cache
+D:\Workspace - Yan\4 - VSCODE\C#\ApeGames\ApeGames\obj\Debug\net10.0\ApeGames.sourcelink.json
+D:\Workspace - Yan\4 - VSCODE\C#\ApeGames\ApeGames\obj\Debug\net10.0\ApeGames.dll
+D:\Workspace - Yan\4 - VSCODE\C#\ApeGames\ApeGames\obj\Debug\net10.0\refint\ApeGames.dll
+D:\Workspace - Yan\4 - VSCODE\C#\ApeGames\ApeGames\obj\Debug\net10.0\ApeGames.pdb
+D:\Workspace - Yan\4 - VSCODE\C#\ApeGames\ApeGames\obj\Debug\net10.0\ApeGames.genruntimeconfig.cache
+D:\Workspace - Yan\4 - VSCODE\C#\ApeGames\ApeGames\obj\Debug\net10.0\ref\ApeGames.dll
