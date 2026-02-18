@@ -1,6 +1,6 @@
 using System;
 
-namespace SimiosGame.Models
+namespace ApeGames.Models
 {
     public class Personagem
     {
